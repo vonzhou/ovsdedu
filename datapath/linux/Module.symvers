@@ -1,0 +1,2 @@
+0x04b0dcbe	ovs_dp_ioctl_hook	/home/vonzhou/WorkSpace/ovs/ovs-x0.1/datapath/linux/openvswitch	EXPORT_SYMBOL
+0x47ce79af	br_should_route_hook	/home/vonzhou/WorkSpace/ovs/ovs-x0.1/datapath/linux/brcompat	EXPORT_SYMBOL

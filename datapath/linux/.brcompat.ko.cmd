@@ -1,0 +1,1 @@
+cmd_/home/vonzhou/WorkSpace/ovs/ovs-x0.1/datapath/linux/brcompat.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.2.0-23-generic/scripts/module-common.lds --build-id  -o /home/vonzhou/WorkSpace/ovs/ovs-x0.1/datapath/linux/brcompat.ko /home/vonzhou/WorkSpace/ovs/ovs-x0.1/datapath/linux/brcompat.o /home/vonzhou/WorkSpace/ovs/ovs-x0.1/datapath/linux/brcompat.mod.o
